@@ -2,7 +2,7 @@ In this project , we have used a number of classification models to classify the
 All the process has  step-by-step description.
 process :
 1: Loading dataset
-2: EDA./n
+2: EDA.
 3: Cleaning text.
 4: Tokenization.
 5: Lemmatization method.
