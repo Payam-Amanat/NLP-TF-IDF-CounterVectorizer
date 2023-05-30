@@ -9,7 +9,8 @@ process :
 6: Using both CounterVectorizer and TI-IDF.
 7: Using classification models.
 
-There are two techniques which are used : 1- TF-IDF     2-CounterVectorizer
+There are two techniques which are used : 1- TF-IDF   
+2-CounterVectorizer
 The accuracy is the same as using  LSTM .
 I hope you like.
 
